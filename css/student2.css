@@ -1,0 +1,44 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+nav ul li{
+    display: inline-block;
+    width: 24%;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: aqua;
+    margin: none;
+    border: dashed;
+    padding: 10px;
+ }
+
+ img{
+    width: 24%;
+    padding: 15px;
+    border: dashed;
+    margin: none;
+    border-color: blue;
+ }
+
+ p{
+    color: red;
+    border: dotted;
+    width: 30%;
+    padding: 10px;
+ }
+
