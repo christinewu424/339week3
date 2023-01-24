@@ -1,0 +1,58 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    text-decoration: none;
+ }
+
+ nav ul li {
+    display: inline-block;
+    margin: 10px 50px;
+    width: 100px;
+    background-color: aqua;
+    padding: 10px 30px 10px 10px;
+    border-radius: 20px;
+    border: solid 2px #000000;
+ }
+
+ nav ul li a {
+    text-decoration: none;
+    text-align: left;
+ }
+
+ main img {
+    display: inline;
+    max-width: 24%;
+    padding: 15px;
+    margin: 0;
+    border: dashed 5px #4029ec;
+ }
+
+ main p {
+     display: inline-block;
+     max-width: 200px;
+     background-color: transparent;
+     padding: 30px;
+ }
+
+ main p:hover {
+     transition: 0.3s;
+     background-color: aqua;
+ }
+
+
+
+ 
